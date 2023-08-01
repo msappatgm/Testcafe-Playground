@@ -1,0 +1,4 @@
+/.env
+/node_modules
+/src/components/pageobjects/page-model.js
+/src/specs/regression/test.js

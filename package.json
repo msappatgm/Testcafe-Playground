@@ -1,0 +1,16 @@
+{
+  "name": "testcafe-playground",
+  "version": "0.1.0",
+  "description": "Season 7 EP 3 - KNIFIN' AROUND",
+  "main": "src/test.js",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DevExpress/testcafe/issues"
+  },
+  "devDependencies": {
+    "testcafe": "*"
+  },
+  "dependencies": {
+    "dotenv": "^16.3.1"
+  }
+}
