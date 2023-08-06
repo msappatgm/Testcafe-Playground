@@ -1,5 +1,5 @@
 import { ClientFunction } from 'testcafe';
-import LoginPage from '../../components/pageobjects/login-model';
+import LoginPage from '../../components/pageobjects/login.page';
 import { getEnvironmentalizedURL } from '../../utils/general-utils';
 import 'dotenv/config'
 
